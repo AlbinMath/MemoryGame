@@ -39,7 +39,9 @@ A simple memory game implemented in Python using Tkinter.
 
 ## Screenshots
 
-*(Add your screenshots here if desired)*
+<img width="707" height="1078" alt="PLAY" src="https://github.com/user-attachments/assets/6cdd5c96-231e-4f25-a3f8-84cf9540aec6" />
+
+<img width="704" height="1077" alt="END" src="https://github.com/user-attachments/assets/348a8cfe-ab6a-4463-aa9f-c2321ba9063e" />
 
 ## License
 
